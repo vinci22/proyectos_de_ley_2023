@@ -1,0 +1,1019 @@
+2025-02-02 23:32:42 - INFO - \u2705 Archivo boletines_2023.xlsx cargado correctamente. 890 boletines encontrados.
+2025-02-02 23:32:42 - INFO - \U0001f50d Consultando API con boletín 16535-24 (ID enviado: 16535)
+2025-02-02 23:32:43 - INFO - \U0001f50e XML recibido para boletín 16535:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16535-24</boletin>
+                    <titulo>Establece el 11 de agosto de cada año como el Día Nacional del Hip Hop</titulo>
+                    <fecha_ingreso>29/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Primer trámite cons...
+2025-02-02 23:32:43 - ERROR - \u274c Error al parsear XML para boletín 16535: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:43 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16535.xml' para análisis.
+2025-02-02 23:32:43 - INFO - \U0001f50d Consultando API con boletín 16505-04 (ID enviado: 16505)
+2025-02-02 23:32:45 - INFO - \U0001f50e XML recibido para boletín 16505:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16505-04</boletin>
+                    <titulo>Modifica la ley Nº 21.040 en materia de suplencia de los directores ejecutivos y adelanta la entrada en funcionamiento del Servicio Local de Educación Pública de Chiloé</titulo>
+                    <fecha_ingreso>29/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+               ...
+2025-02-02 23:32:45 - ERROR - \u274c Error al parsear XML para boletín 16505: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:45 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16505.xml' para análisis.
+2025-02-02 23:32:45 - INFO - \U0001f50d Consultando API con boletín 16504-33 (ID enviado: 16504)
+2025-02-02 23:32:46 - INFO - \U0001f50e XML recibido para boletín 16504:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16504-33</boletin>
+                    <titulo>Modifica el Código de Aguas en lo relativo al procedimiento de fiscalización y vigilancia por parte de la Dirección General de Aguas</titulo>
+                    <fecha_ingreso>29/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Suma</urgencia...
+2025-02-02 23:32:46 - ERROR - \u274c Error al parsear XML para boletín 16504: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:46 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16504.xml' para análisis.
+2025-02-02 23:32:46 - INFO - \U0001f50d Consultando API con boletín 16512-07 (ID enviado: 16512)
+2025-02-02 23:32:47 - INFO - \U0001f50e XML recibido para boletín 16512:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16512-07</boletin>
+                    <titulo>Modifica la Carta Fundamental para dejar sin efecto las pensiones de gracia otorgadas a personas afectadas en el contexto de las manifestaciones sociales ocurridas a partir de octubre de 2019</titulo>
+                    <fecha_ingreso>28/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_o...
+2025-02-02 23:32:47 - ERROR - \u274c Error al parsear XML para boletín 16512: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:47 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16512.xml' para análisis.
+2025-02-02 23:32:47 - INFO - \U0001f50d Consultando API con boletín 16534-07 (ID enviado: 16534)
+2025-02-02 23:32:48 - INFO - \U0001f50e XML recibido para boletín 16534:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16534-07</boletin>
+                    <titulo>Modifica el Código Penal para tipificar el delito de publicidad falsa o engañosa en perjuicio del consumidor</titulo>
+                    <fecha_ingreso>27/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+        ...
+2025-02-02 23:32:48 - ERROR - \u274c Error al parsear XML para boletín 16534: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:48 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16534.xml' para análisis.
+2025-02-02 23:32:48 - INFO - \U0001f50d Consultando API con boletín 16498-13 (ID enviado: 16498)
+2025-02-02 23:32:49 - INFO - \U0001f50e XML recibido para boletín 16498:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16498-13</boletin>
+                    <titulo>Prorroga para el año 2024, la facultad establecida en el artículo 66 de la ley Nº 21.526, y regula otra materia que indica</titulo>
+                    <fecha_ingreso>27/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Discusión inmediata</urgencia...
+2025-02-02 23:32:49 - ERROR - \u274c Error al parsear XML para boletín 16498: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:49 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16498.xml' para análisis.
+2025-02-02 23:32:49 - INFO - \U0001f50d Consultando API con boletín 16533-07 (ID enviado: 16533)
+2025-02-02 23:32:50 - INFO - \U0001f50e XML recibido para boletín 16533:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16533-07</boletin>
+                    <titulo>Modifica el Código Tributario para fortalecer la autonomía del Ministerio Público en la investigación y persecución de delitos tributarios</titulo>
+                    <fecha_ingreso>26/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgen...
+2025-02-02 23:32:50 - ERROR - \u274c Error al parsear XML para boletín 16533: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:50 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16533.xml' para análisis.
+2025-02-02 23:32:50 - INFO - \U0001f50d Consultando API con boletín 16532-03 (ID enviado: 16532)
+2025-02-02 23:32:51 - INFO - \U0001f50e XML recibido para boletín 16532:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16532-03</boletin>
+                    <titulo>Modifica el Código Aeronáutico para establecer mayores indemnizaciones por cancelaciones o retrasos imputables a la empresa de transporte aéreo</titulo>
+                    <fecha_ingreso>22/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin ...
+2025-02-02 23:32:51 - ERROR - \u274c Error al parsear XML para boletín 16532: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:51 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16532.xml' para análisis.
+2025-02-02 23:32:51 - INFO - \U0001f50d Consultando API con boletín 16531-29 (ID enviado: 16531)
+2025-02-02 23:32:52 - INFO - \U0001f50e XML recibido para boletín 16531:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16531-29</boletin>
+                    <titulo>Declara el 1 de abril de cada año como el Día del Fútbol Femenino Profesional, Juvenil y Amateur</titulo>
+                    <fecha_ingreso>22/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    ...
+2025-02-02 23:32:52 - ERROR - \u274c Error al parsear XML para boletín 16531: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:52 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16531.xml' para análisis.
+2025-02-02 23:32:52 - INFO - \U0001f50d Consultando API con boletín 16530-06 (ID enviado: 16530)
+2025-02-02 23:32:53 - INFO - \U0001f50e XML recibido para boletín 16530:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16530-06</boletin>
+                    <titulo>Modifica diversos cuerpos legales a fin de establecer requisitos profesionales para desempeñar el cargo de Secretario Regional Ministerial</titulo>
+                    <fecha_ingreso>21/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgen...
+2025-02-02 23:32:53 - ERROR - \u274c Error al parsear XML para boletín 16530: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:53 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16530.xml' para análisis.
+2025-02-02 23:32:53 - INFO - \U0001f50d Consultando API con boletín 16529-05 (ID enviado: 16529)
+2025-02-02 23:32:54 - INFO - \U0001f50e XML recibido para boletín 16529:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16529-05</boletin>
+                    <titulo>Modifica la ley Nº 19.913, para disponer la inscripción de órganos y servicios públicos en el Registro de Entidades Reportantes de la Unidad de Análisis Financiero</titulo>
+                    <fecha_ingreso>21/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <...
+2025-02-02 23:32:54 - ERROR - \u274c Error al parsear XML para boletín 16529: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:54 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16529.xml' para análisis.
+2025-02-02 23:32:54 - INFO - \U0001f50d Consultando API con boletín 16528-07 (ID enviado: 16528)
+2025-02-02 23:32:55 - INFO - \U0001f50e XML recibido para boletín 16528:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16528-07</boletin>
+                    <titulo>Modifica la Carta Fundamental con el objeto de establecer un requisito previo para la interposición de una acusación constitucional contra un Ministro de Estado</titulo>
+                    <fecha_ingreso>21/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urg...
+2025-02-02 23:32:55 - ERROR - \u274c Error al parsear XML para boletín 16528: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:55 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16528.xml' para análisis.
+2025-02-02 23:32:55 - INFO - \U0001f50d Consultando API con boletín 16497-04 (ID enviado: 16497)
+2025-02-02 23:32:57 - INFO - \U0001f50e XML recibido para boletín 16497:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16497-04</boletin>
+                    <titulo>Modifica la ley N° 20.903, que crea el Sistema de Desarrollo Profesional Docente y modifica otras normas, con el objeto de homologar los requisitos de admisión universitaria para las carreras y programas de pedagogía</titulo>
+                    <fecha_ingreso>21/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_ori...
+2025-02-02 23:32:57 - ERROR - \u274c Error al parsear XML para boletín 16497: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:57 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16497.xml' para análisis.
+2025-02-02 23:32:57 - INFO - \U0001f50d Consultando API con boletín 16496-25 (ID enviado: 16496)
+2025-02-02 23:32:58 - INFO - \U0001f50e XML recibido para boletín 16496:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16496-25</boletin>
+                    <titulo>Modifica el Código Penal, en relación con las penas aplicables al delito de usurpación</titulo>
+                    <fecha_ingreso>21/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Primer t...
+2025-02-02 23:32:58 - ERROR - \u274c Error al parsear XML para boletín 16496: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:58 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16496.xml' para análisis.
+2025-02-02 23:32:58 - INFO - \U0001f50d Consultando API con boletín 16526-13 (ID enviado: 16526)
+2025-02-02 23:32:59 - INFO - \U0001f50e XML recibido para boletín 16526:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16526-13</boletin>
+                    <titulo>Modifica el Código del Trabajo en materia de trabajo nocturno de mujeres embarazadas y personas que tengan bajo cuidado a menores de dos años de edad</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actua...
+2025-02-02 23:32:59 - ERROR - \u274c Error al parsear XML para boletín 16526: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:32:59 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16526.xml' para análisis.
+2025-02-02 23:32:59 - INFO - \U0001f50d Consultando API con boletín 16525-07 (ID enviado: 16525)
+2025-02-02 23:33:00 - INFO - \U0001f50e XML recibido para boletín 16525:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16525-07</boletin>
+                    <titulo>Modifica el Código Penal para sancionar, con pena de falta, al que produjere ruidos molestos en niveles y horarios prohibidos</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia...
+2025-02-02 23:33:00 - ERROR - \u274c Error al parsear XML para boletín 16525: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:00 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16525.xml' para análisis.
+2025-02-02 23:33:00 - INFO - \U0001f50d Consultando API con boletín 16524-07 (ID enviado: 16524)
+2025-02-02 23:33:01 - INFO - \U0001f50e XML recibido para boletín 16524:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16524-07</boletin>
+                    <titulo>Modifica la Carta Fundamental en materia de cuórums para aprobar, modificar o derogar normas constitucionales y legales que indica</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urg...
+2025-02-02 23:33:01 - ERROR - \u274c Error al parsear XML para boletín 16524: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:01 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16524.xml' para análisis.
+2025-02-02 23:33:01 - INFO - \U0001f50d Consultando API con boletín 16523-07 (ID enviado: 16523)
+2025-02-02 23:33:02 - INFO - \U0001f50e XML recibido para boletín 16523:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16523-07</boletin>
+                    <titulo>Modifica el Código Procesal Penal y el Código Tributario para conceder acción penal pública por delitos tributarios</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+ ...
+2025-02-02 23:33:02 - ERROR - \u274c Error al parsear XML para boletín 16523: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:02 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16523.xml' para análisis.
+2025-02-02 23:33:02 - INFO - \U0001f50d Consultando API con boletín 16521-07 (ID enviado: 16521)
+2025-02-02 23:33:03 - INFO - \U0001f50e XML recibido para boletín 16521:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16521-07</boletin>
+                    <titulo>Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, para sancionar penalmente la entrega de antecedentes falsos en comisiones especiales investigadoras de la Cámara de Diputados</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</...
+2025-02-02 23:33:03 - ERROR - \u274c Error al parsear XML para boletín 16521: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:03 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16521.xml' para análisis.
+2025-02-02 23:33:03 - INFO - \U0001f50d Consultando API con boletín 16520-04 (ID enviado: 16520)
+2025-02-02 23:33:04 - INFO - \U0001f50e XML recibido para boletín 16520:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16520-04</boletin>
+                    <titulo>Prohíbe el uso de dispositivos móviles de comunicación en establecimientos educacionales y consagra el principio de uso responsable de la tecnología en el proceso formativo</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+            ...
+2025-02-02 23:33:04 - ERROR - \u274c Error al parsear XML para boletín 16520: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:04 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16520.xml' para análisis.
+2025-02-02 23:33:04 - INFO - \U0001f50d Consultando API con boletín 16519-15 (ID enviado: 16519)
+2025-02-02 23:33:05 - INFO - \U0001f50e XML recibido para boletín 16519:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16519-15</boletin>
+                    <titulo>Modifica la ley N° 18.290, de Tránsito, para obligar a identificar y vincular a los pasajeros con su equipaje en el transporte interurbano</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Suma</urg...
+2025-02-02 23:33:05 - ERROR - \u274c Error al parsear XML para boletín 16519: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:05 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16519.xml' para análisis.
+2025-02-02 23:33:05 - INFO - \U0001f50d Consultando API con boletín 16503-07 (ID enviado: 16503)
+2025-02-02 23:33:06 - INFO - \U0001f50e XML recibido para boletín 16503:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16503-07</boletin>
+                    <titulo>Modifica la ley N°18.056, que establece normas generales sobre otorgamiento de pensiones de gracia por el Presidente de la República, con el objeto de que las personas condenadas por crímenes o simples delitos y aquellas inscritas en el Registro Nacional de Deudores de Pensiones de Alimentos no accedan a dicho beneficio</titulo>
+                    <fecha_ingreso>20/12...
+2025-02-02 23:33:06 - ERROR - \u274c Error al parsear XML para boletín 16503: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:06 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16503.xml' para análisis.
+2025-02-02 23:33:06 - INFO - \U0001f50d Consultando API con boletín 16502-07 (ID enviado: 16502)
+2025-02-02 23:33:07 - INFO - \U0001f50e XML recibido para boletín 16502:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16502-07</boletin>
+                    <titulo>Modifica la ley N° 18.050, que fija normas generales para conceder indultos particulares, en materia de procedencia de la petición de indulto, y de la pérdida de beneficios en el caso que señala</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_ori...
+2025-02-02 23:33:07 - ERROR - \u274c Error al parsear XML para boletín 16502: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:07 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16502.xml' para análisis.
+2025-02-02 23:33:07 - INFO - \U0001f50d Consultando API con boletín 16493-07 (ID enviado: 16493)
+2025-02-02 23:33:08 - INFO - \U0001f50e XML recibido para boletín 16493:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16493-07</boletin>
+                    <titulo>Modifica diversos cuerpos legales, con el objeto de simplificar la declaración de muerte presunta en los casos de naves o aeronaves desaparecidas, y reducir el tiempo para que una nave se repute perdida</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</ca...
+2025-02-02 23:33:08 - ERROR - \u274c Error al parsear XML para boletín 16493: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:08 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16493.xml' para análisis.
+2025-02-02 23:33:08 - INFO - \U0001f50d Consultando API con boletín 16492-03 (ID enviado: 16492)
+2025-02-02 23:33:09 - INFO - \U0001f50e XML recibido para boletín 16492:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16492-03</boletin>
+                    <titulo>Regula las aplicaciones de préstamos de consumo y adjudica responsabilidad a compañías por hechos delictivos que se cometan a través de sus plataformas</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_act...
+2025-02-02 23:33:09 - ERROR - \u274c Error al parsear XML para boletín 16492: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:09 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16492.xml' para análisis.
+2025-02-02 23:33:09 - INFO - \U0001f50d Consultando API con boletín 16491-37 (ID enviado: 16491)
+2025-02-02 23:33:11 - INFO - \U0001f50e XML recibido para boletín 16491:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16491-37</boletin>
+                    <titulo>Introduce modificaciones a la ley N° 19.169, que establece normas sobre otorgamiento de premios nacionales, para otorgar anualmente el Premio Nacional de Literatura</titulo>
+                    <fecha_ingreso>20/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urg...
+2025-02-02 23:33:11 - ERROR - \u274c Error al parsear XML para boletín 16491: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:11 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16491.xml' para análisis.
+2025-02-02 23:33:11 - INFO - \U0001f50d Consultando API con boletín 16527-04 (ID enviado: 16527)
+2025-02-02 23:33:12 - INFO - \U0001f50e XML recibido para boletín 16527:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16527-04</boletin>
+                    <titulo>Regula el uso de teléfonos celulares y otros dispositivos móviles en establecimientos de enseñanza básica y media</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+   ...
+2025-02-02 23:33:12 - ERROR - \u274c Error al parsear XML para boletín 16527: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:12 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16527.xml' para análisis.
+2025-02-02 23:33:12 - INFO - \U0001f50d Consultando API con boletín 16522-24 (ID enviado: 16522)
+2025-02-02 23:33:13 - INFO - \U0001f50e XML recibido para boletín 16522:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16522-24</boletin>
+                    <titulo>Instituye el 1 de febrero de cada año como el Día Nacional del Curanto</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>Primer trámite cons...
+2025-02-02 23:33:13 - ERROR - \u274c Error al parsear XML para boletín 16522: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:13 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16522.xml' para análisis.
+2025-02-02 23:33:13 - INFO - \U0001f50d Consultando API con boletín 16518-11 (ID enviado: 16518)
+2025-02-02 23:33:14 - INFO - \U0001f50e XML recibido para boletín 16518:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16518-11</boletin>
+                    <titulo>Modifica la ley N° 21.156, que establece la obligación de disponer de desfibriladores externos automáticos portátiles en los establecimientos y recintos que indica, para hacer aplicable dicha obligación a todos los centros de salud</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                ...
+2025-02-02 23:33:14 - ERROR - \u274c Error al parsear XML para boletín 16518: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:14 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16518.xml' para análisis.
+2025-02-02 23:33:14 - INFO - \U0001f50d Consultando API con boletín 16483-07 (ID enviado: 16483)
+2025-02-02 23:33:15 - INFO - \U0001f50e XML recibido para boletín 16483:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16483-07</boletin>
+                    <titulo>Modifica la Carta Fundamental para incorporar la iniciativa legislativa ciudadana, en los términos que indica</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+            ...
+2025-02-02 23:33:15 - ERROR - \u274c Error al parsear XML para boletín 16483: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:15 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16483.xml' para análisis.
+2025-02-02 23:33:15 - INFO - \U0001f50d Consultando API con boletín 16482-11 (ID enviado: 16482)
+2025-02-02 23:33:16 - INFO - \U0001f50e XML recibido para boletín 16482:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16482-11</boletin>
+                    <titulo>Establece el 15 de febrero de cada año como el Día Nacional de la Concientización sobre el Cáncer de Vesícula Biliar</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+     ...
+2025-02-02 23:33:16 - ERROR - \u274c Error al parsear XML para boletín 16482: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:16 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16482.xml' para análisis.
+2025-02-02 23:33:16 - INFO - \U0001f50d Consultando API con boletín 16481-25 (ID enviado: 16481)
+2025-02-02 23:33:17 - INFO - \U0001f50e XML recibido para boletín 16481:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16481-25</boletin>
+                    <titulo>Modifica el Código Procesal Penal, con el objeto de aumentar el plazo máximo para considerar una situación entre las hipótesis de flagrancia</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia...
+2025-02-02 23:33:17 - ERROR - \u274c Error al parsear XML para boletín 16481: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:17 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16481.xml' para análisis.
+2025-02-02 23:33:17 - INFO - \U0001f50d Consultando API con boletín 16480-02 (ID enviado: 16480)
+2025-02-02 23:33:18 - INFO - \U0001f50e XML recibido para boletín 16480:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16480-02</boletin>
+                    <titulo>Modifica el artículo 14 D de la Ley sobre Control de Armas, con el objeto de eximir de las sanciones que indica a los funcionarios de las Fuerzas Armadas y de Orden y Seguridad Pública, por determinadas conductas ejecutadas en actos de servicio</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+   ...
+2025-02-02 23:33:18 - ERROR - \u274c Error al parsear XML para boletín 16480: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:18 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16480.xml' para análisis.
+2025-02-02 23:33:18 - INFO - \U0001f50d Consultando API con boletín 16476-07 (ID enviado: 16476)
+2025-02-02 23:33:19 - INFO - \U0001f50e XML recibido para boletín 16476:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16476-07</boletin>
+                    <titulo>Modifica diversos cuerpos legales, con el objeto de tipificar el delito de incitación o promoción del odio, discriminación, hostigamiento o violencia</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin...
+2025-02-02 23:33:19 - ERROR - \u274c Error al parsear XML para boletín 16476: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:19 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16476.xml' para análisis.
+2025-02-02 23:33:19 - INFO - \U0001f50d Consultando API con boletín 16474-07 (ID enviado: 16474)
+2025-02-02 23:33:20 - INFO - \U0001f50e XML recibido para boletín 16474:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16474-07</boletin>
+                    <titulo>Modifica la Carta Fundamental, con el objeto de aumentar el quórum de aprobación de reformas constitucionales, leyes interpretativas de la Constitución y leyes orgánicas constitucionales</titulo>
+                    <fecha_ingreso>19/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+   ...
+2025-02-02 23:33:20 - ERROR - \u274c Error al parsear XML para boletín 16474: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:20 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16474.xml' para análisis.
+2025-02-02 23:33:20 - INFO - \U0001f50d Consultando API con boletín 16514-15 (ID enviado: 16514)
+2025-02-02 23:33:21 - INFO - \U0001f50e XML recibido para boletín 16514:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16514-15</boletin>
+                    <titulo>Modifica normas legales que indica para agravar las sanciones derivadas de accidentes de tránsito provocados por animales en el camino</titulo>
+                    <fecha_ingreso>18/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia<...
+2025-02-02 23:33:21 - ERROR - \u274c Error al parsear XML para boletín 16514: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:21 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16514.xml' para análisis.
+2025-02-02 23:33:21 - INFO - \U0001f50d Consultando API con boletín 16513-07 (ID enviado: 16513)
+2025-02-02 23:33:22 - INFO - \U0001f50e XML recibido para boletín 16513:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16513-07</boletin>
+                    <titulo>Modifica el Código Penal y la ley N° 18.216 en materia de reincidencia, prescripción y acceso a penas sustitutivas</titulo>
+                    <fecha_ingreso>18/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+  ...
+2025-02-02 23:33:22 - ERROR - \u274c Error al parsear XML para boletín 16513: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:22 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16513.xml' para análisis.
+2025-02-02 23:33:22 - INFO - \U0001f50d Consultando API con boletín 16511-13 (ID enviado: 16511)
+2025-02-02 23:33:23 - INFO - \U0001f50e XML recibido para boletín 16511:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16511-13</boletin>
+                    <titulo>Modifica el Código del Trabajo para sancionar al notario que impida al trabajador formular reserva de derechos al suscribir el finiquito laboral</titulo>
+                    <fecha_ingreso>18/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin...
+2025-02-02 23:33:23 - ERROR - \u274c Error al parsear XML para boletín 16511: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:23 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16511.xml' para análisis.
+2025-02-02 23:33:23 - INFO - \U0001f50d Consultando API con boletín 16477-36 (ID enviado: 16477)
+2025-02-02 23:33:24 - INFO - \U0001f50e XML recibido para boletín 16477:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16477-36</boletin>
+                    <titulo>Modifica diversos cuerpos legales, en materia de tipificación de los delitos de maltrato intrafamiliar y de violencia contra la mujer, en los casos que indica</titulo>
+                    <fecha_ingreso>18/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_a...
+2025-02-02 23:33:24 - ERROR - \u274c Error al parsear XML para boletín 16477: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:24 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16477.xml' para análisis.
+2025-02-02 23:33:24 - INFO - \U0001f50d Consultando API con boletín 16475-05 (ID enviado: 16475)
+2025-02-02 23:33:26 - INFO - \U0001f50e XML recibido para boletín 16475:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16475-05</boletin>
+                    <titulo>Crea un Registro Nacional de Personas Beneficiarias Finales</titulo>
+                    <fecha_ingreso>18/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Simple</urgencia_actual>
+                    <etapa>Primer trámite constitucional (Senado)</...
+2025-02-02 23:33:26 - ERROR - \u274c Error al parsear XML para boletín 16475: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:26 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16475.xml' para análisis.
+2025-02-02 23:33:26 - INFO - \U0001f50d Consultando API con boletín 16507-07 (ID enviado: 16507)
+2025-02-02 23:33:27 - INFO - \U0001f50e XML recibido para boletín 16507:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16507-07</boletin>
+                    <titulo>Modifica el Código Procesal Penal para permitir la interposición, por medios digitales, de denuncias por presunta desgracia</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_a...
+2025-02-02 23:33:27 - ERROR - \u274c Error al parsear XML para boletín 16507: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:27 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16507.xml' para análisis.
+2025-02-02 23:33:27 - INFO - \U0001f50d Consultando API con boletín 16506-15 (ID enviado: 16506)
+2025-02-02 23:33:28 - INFO - \U0001f50e XML recibido para boletín 16506:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16506-15</boletin>
+                    <titulo>Modifica el Código Aeronáutico para que las empresas de transporte aéreo deban priorizar la venta de boletos con tarifa rebajada a pasajeros, en casos que indica</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <ur...
+2025-02-02 23:33:28 - ERROR - \u274c Error al parsear XML para boletín 16506: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:28 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16506.xml' para análisis.
+2025-02-02 23:33:28 - INFO - \U0001f50d Consultando API con boletín 16495-03 (ID enviado: 16495)
+2025-02-02 23:33:29 - INFO - \U0001f50e XML recibido para boletín 16495:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16495-03</boletin>
+                    <titulo>Modifica la ley N° 19.496, para exigir que los vendedores de vehículos usados exhiban al adquirente el historial de siniestros que los han afectado</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>...
+2025-02-02 23:33:29 - ERROR - \u274c Error al parsear XML para boletín 16495: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:29 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16495.xml' para análisis.
+2025-02-02 23:33:29 - INFO - \U0001f50d Consultando API con boletín 16494-05 (ID enviado: 16494)
+2025-02-02 23:33:30 - INFO - \U0001f50e XML recibido para boletín 16494:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16494-05</boletin>
+                    <titulo>Modifica la ley N° 21.000, que crea la Comisión para el Mercado Financiero, con el objeto de que las entidades fiscalizadas publiquen las resoluciones sancionatorias de que sean objeto en un lugar visible de sus sitios web institucionales</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+         ...
+2025-02-02 23:33:30 - ERROR - \u274c Error al parsear XML para boletín 16494: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:30 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16494.xml' para análisis.
+2025-02-02 23:33:30 - INFO - \U0001f50d Consultando API con boletín 16490-15 (ID enviado: 16490)
+2025-02-02 23:33:31 - INFO - \U0001f50e XML recibido para boletín 16490:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16490-15</boletin>
+                    <titulo>Modifica la ley N° 21.553, a fin de incorporar medidas de control de identidad y seguridad para conductores y pasajeros</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actua...
+2025-02-02 23:33:31 - ERROR - \u274c Error al parsear XML para boletín 16490: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:31 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16490.xml' para análisis.
+2025-02-02 23:33:31 - INFO - \U0001f50d Consultando API con boletín 16489-06 (ID enviado: 16489)
+2025-02-02 23:33:32 - INFO - \U0001f50e XML recibido para boletín 16489:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16489-06</boletin>
+                    <titulo>Modifica la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, en materia de control del consumo de drogas por parte de las autoridades y funcionarios que indica</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados...
+2025-02-02 23:33:32 - ERROR - \u274c Error al parsear XML para boletín 16489: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:32 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16489.xml' para análisis.
+2025-02-02 23:33:32 - INFO - \U0001f50d Consultando API con boletín 16488-15 (ID enviado: 16488)
+2025-02-02 23:33:33 - INFO - \U0001f50e XML recibido para boletín 16488:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16488-15</boletin>
+                    <titulo>Prorroga la entrada en vigencia de la ley N° 21.553, que regula a las aplicaciones de transporte remunerado de pasajeros y los servicios que a través de ellas se presten</titulo>
+                    <fecha_ingreso>13/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+               ...
+2025-02-02 23:33:33 - ERROR - \u274c Error al parsear XML para boletín 16488: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:33 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16488.xml' para análisis.
+2025-02-02 23:33:33 - INFO - \U0001f50d Consultando API con boletín 16487-12 (ID enviado: 16487)
+2025-02-02 23:33:34 - INFO - \U0001f50e XML recibido para boletín 16487:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16487-12</boletin>
+                    <titulo>Modifica la ley N° 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, para prohibir temporalmente la importación de plásticos que indica, que sean destinados a la elaboración de productos de un solo uso</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <ini...
+2025-02-02 23:33:34 - ERROR - \u274c Error al parsear XML para boletín 16487: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:34 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16487.xml' para análisis.
+2025-02-02 23:33:34 - INFO - \U0001f50d Consultando API con boletín 16486-25 (ID enviado: 16486)
+2025-02-02 23:33:35 - INFO - \U0001f50e XML recibido para boletín 16486:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16486-25</boletin>
+                    <titulo>Modifica la ley N° 21.325, de Migración y Extranjería, para ampliar el plazo de privación de libertad destinado a hacer efectiva la expulsión de extranjeros</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgenci...
+2025-02-02 23:33:35 - ERROR - \u274c Error al parsear XML para boletín 16486: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:35 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16486.xml' para análisis.
+2025-02-02 23:33:35 - INFO - \U0001f50d Consultando API con boletín 16485-21 (ID enviado: 16485)
+2025-02-02 23:33:36 - INFO - \U0001f50e XML recibido para boletín 16485:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16485-21</boletin>
+                    <titulo>Modifica la ley N° 18.892, General de Pesca y Acuicultura, para regular la extracción de algas pardas en las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputa...
+2025-02-02 23:33:36 - ERROR - \u274c Error al parsear XML para boletín 16485: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:36 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16485.xml' para análisis.
+2025-02-02 23:33:36 - INFO - \U0001f50d Consultando API con boletín 16484-24 (ID enviado: 16484)
+2025-02-02 23:33:37 - INFO - \U0001f50e XML recibido para boletín 16484:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16484-24</boletin>
+                    <titulo>Instituye el primer viernes del mes de diciembre de cada año como el Día Nacional de la Funcionaria de la Primera Infancia Vía Transferencia de Fondos</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actu...
+2025-02-02 23:33:37 - ERROR - \u274c Error al parsear XML para boletín 16484: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:37 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16484.xml' para análisis.
+2025-02-02 23:33:37 - INFO - \U0001f50d Consultando API con boletín 16479-15 (ID enviado: 16479)
+2025-02-02 23:33:38 - INFO - \U0001f50e XML recibido para boletín 16479:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16479-15</boletin>
+                    <titulo>Posterga la entrada en vigencia de la ley N° 21.553, que regula a las aplicaciones de transporte remunerado de pasajeros y los servicios que a través de ellas se presten</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+               ...
+2025-02-02 23:33:38 - ERROR - \u274c Error al parsear XML para boletín 16479: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:38 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16479.xml' para análisis.
+2025-02-02 23:33:38 - INFO - \U0001f50d Consultando API con boletín 16478-09 (ID enviado: 16478)
+2025-02-02 23:33:40 - INFO - \U0001f50e XML recibido para boletín 16478:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16478-09</boletin>
+                    <titulo>Modifica la Ley General de Servicios Sanitarios para obligar a las empresas concesionarias a garantizar la seguridad e higiene en sus instalaciones</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>...
+2025-02-02 23:33:40 - ERROR - \u274c Error al parsear XML para boletín 16478: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:40 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16478.xml' para análisis.
+2025-02-02 23:33:40 - INFO - \U0001f50d Consultando API con boletín 16466-05 (ID enviado: 16466)
+2025-02-02 23:33:41 - INFO - \U0001f50e XML recibido para boletín 16466:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16466-05</boletin>
+                    <titulo>Modifica el Código Tributario, con el objeto de establecer la obligatoriedad de iniciación de actividades para personas que operan en el comercio exterior</titulo>
+                    <fecha_ingreso>12/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actu...
+2025-02-02 23:33:41 - ERROR - \u274c Error al parsear XML para boletín 16466: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:41 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16466.xml' para análisis.
+2025-02-02 23:33:41 - INFO - \U0001f50d Consultando API con boletín 16472-07 (ID enviado: 16472)
+2025-02-02 23:33:42 - INFO - \U0001f50e XML recibido para boletín 16472:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16472-07</boletin>
+                    <titulo>Modifica el Código Penal para tipificar como delito el cobro extorsivo de préstamos usureros, y establece penas accesorias que indica</titulo>
+                    <fecha_ingreso>11/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</...
+2025-02-02 23:33:42 - ERROR - \u274c Error al parsear XML para boletín 16472: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:42 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16472.xml' para análisis.
+2025-02-02 23:33:42 - INFO - \U0001f50d Consultando API con boletín 16463-05 (ID enviado: 16463)
+2025-02-02 23:33:43 - INFO - \U0001f50e XML recibido para boletín 16463:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16463-05</boletin>
+                    <titulo>Otorga reajuste general de remuneraciones a las y los trabajadores del sector público, concede aguinaldos que señala, concede otros beneficios que indica y modifica diversos cuerpos legales</titulo>
+                    <fecha_ingreso>11/12/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_or...
+2025-02-02 23:33:43 - ERROR - \u274c Error al parsear XML para boletín 16463: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:43 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16463.xml' para análisis.
+2025-02-02 23:33:43 - INFO - \U0001f50d Consultando API con boletín 16471-29 (ID enviado: 16471)
+2025-02-02 23:33:44 - INFO - \U0001f50e XML recibido para boletín 16471:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16471-29</boletin>
+                    <titulo>Prohíbe la celebración de contratos con fines publicitarios entre jugadores de fútbol profesional o sus representantes y sociedades operadoras de plataformas de apuestas en línea</titulo>
+                    <fecha_ingreso>07/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+      ...
+2025-02-02 23:33:44 - ERROR - \u274c Error al parsear XML para boletín 16471: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:44 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16471.xml' para análisis.
+2025-02-02 23:33:44 - INFO - \U0001f50d Consultando API con boletín 16470-35 (ID enviado: 16470)
+2025-02-02 23:33:45 - INFO - \U0001f50e XML recibido para boletín 16470:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16470-35</boletin>
+                    <titulo>Modifica la ley N° 20.422, para sancionar a usuarios del transporte público de pasajeros por no ceder asientos reservados para personas con discapacidad</titulo>
+                    <fecha_ingreso>07/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_ac...
+2025-02-02 23:33:45 - ERROR - \u274c Error al parsear XML para boletín 16470: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:45 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16470.xml' para análisis.
+2025-02-02 23:33:45 - INFO - \U0001f50d Consultando API con boletín 16469-15 (ID enviado: 16469)
+2025-02-02 23:33:46 - INFO - \U0001f50e XML recibido para boletín 16469:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16469-15</boletin>
+                    <titulo>Exige acreditación de identidad a usuarios de servicios interurbanos de transporte de pasajeros</titulo>
+                    <fecha_ingreso>01/12/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <...
+2025-02-02 23:33:46 - ERROR - \u274c Error al parsear XML para boletín 16469: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:46 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16469.xml' para análisis.
+2025-02-02 23:33:46 - INFO - \U0001f50d Consultando API con boletín 16459-36 (ID enviado: 16459)
+2025-02-02 23:33:48 - INFO - \U0001f50e XML recibido para boletín 16459:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16459-36</boletin>
+                    <titulo>Modifica la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia, con el objeto de conceder a niños, niñas y adolescentes el derecho a otorgar su consentimiento para la realización de tratamientos médicos, en las circunstancias que indica</titulo>
+                    <fecha_ingreso>01/12/2023</fecha_ingreso>
+                  ...
+2025-02-02 23:33:48 - ERROR - \u274c Error al parsear XML para boletín 16459: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:48 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16459.xml' para análisis.
+2025-02-02 23:33:48 - INFO - \U0001f50d Consultando API con boletín 16461-36 (ID enviado: 16461)
+2025-02-02 23:33:49 - INFO - \U0001f50e XML recibido para boletín 16461:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16461-36</boletin>
+                    <titulo>Modifica la ley N° 20.285, sobre acceso a la información pública, con el objeto de facilitar el ejercicio de ese derecho a niños, niñas y adolescentes</titulo>
+                    <fecha_ingreso>30/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Si...
+2025-02-02 23:33:49 - ERROR - \u274c Error al parsear XML para boletín 16461: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:49 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16461.xml' para análisis.
+2025-02-02 23:33:49 - INFO - \U0001f50d Consultando API con boletín 16468-24 (ID enviado: 16468)
+2025-02-02 23:33:50 - INFO - \U0001f50e XML recibido para boletín 16468:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16468-24</boletin>
+                    <titulo>Instituye el 15 de mayo de cada año como el Día Nacional de Concientización sobre la Vasculitis</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <...
+2025-02-02 23:33:50 - ERROR - \u274c Error al parsear XML para boletín 16468: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:50 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16468.xml' para análisis.
+2025-02-02 23:33:50 - INFO - \U0001f50d Consultando API con boletín 16467-03 (ID enviado: 16467)
+2025-02-02 23:33:51 - INFO - \U0001f50e XML recibido para boletín 16467:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16467-03</boletin>
+                    <titulo>Modifica la ley N° 19.496, sobre protección de los derechos de los consumidores, para agravar las sanciones aplicables por infracciones que afecten a personas mayores</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                  ...
+2025-02-02 23:33:51 - ERROR - \u274c Error al parsear XML para boletín 16467: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:51 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16467.xml' para análisis.
+2025-02-02 23:33:51 - INFO - \U0001f50d Consultando API con boletín 16465-07 (ID enviado: 16465)
+2025-02-02 23:33:52 - INFO - \U0001f50e XML recibido para boletín 16465:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16465-07</boletin>
+                    <titulo>Modifica la ley N° 18.216 para impedir la aplicación de penas sustitutivas a personas condenadas por delitos de corrupción que indica</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</...
+2025-02-02 23:33:52 - ERROR - \u274c Error al parsear XML para boletín 16465: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:52 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16465.xml' para análisis.
+2025-02-02 23:33:52 - INFO - \U0001f50d Consultando API con boletín 16464-07 (ID enviado: 16464)
+2025-02-02 23:33:53 - INFO - \U0001f50e XML recibido para boletín 16464:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16464-07</boletin>
+                    <titulo>Modifica la Carta Fundamental para igualar, entre hombres y mujeres, los beneficios sociales establecidos en favor de personas mayores</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia<...
+2025-02-02 23:33:53 - ERROR - \u274c Error al parsear XML para boletín 16464: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:53 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16464.xml' para análisis.
+2025-02-02 23:33:53 - INFO - \U0001f50d Consultando API con boletín 16462-36 (ID enviado: 16462)
+2025-02-02 23:33:54 - INFO - \U0001f50e XML recibido para boletín 16462:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16462-36</boletin>
+                    <titulo>Modifica diversos cuerpos legales, con el objeto de fortalecer el derecho de niños, niñas y adolescentes a asociarse libremente</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_ac...
+2025-02-02 23:33:54 - ERROR - \u274c Error al parsear XML para boletín 16462: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:54 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16462.xml' para análisis.
+2025-02-02 23:33:54 - INFO - \U0001f50d Consultando API con boletín 16460-07 (ID enviado: 16460)
+2025-02-02 23:33:55 - INFO - \U0001f50e XML recibido para boletín 16460:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16460-07</boletin>
+                    <titulo>Modifica el Código Penal, en relación con los delitos de tortura y apremios ilegítimos u otros tratos crueles, inhumanos o degradantes </titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urg...
+2025-02-02 23:33:55 - ERROR - \u274c Error al parsear XML para boletín 16460: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:55 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16460.xml' para análisis.
+2025-02-02 23:33:55 - INFO - \U0001f50d Consultando API con boletín 16458-35 (ID enviado: 16458)
+2025-02-02 23:33:57 - INFO - \U0001f50e XML recibido para boletín 16458:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16458-35</boletin>
+                    <titulo>Modifica la ley N° 19.496, que establece normas sobre Protección de los Derechos de los Consumidores, con el objeto de exigir la habilitación de lugares especiales de descanso para personas mayores o discapacitadas en los establecimientos comerciales de libre acceso al público</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <i...
+2025-02-02 23:33:57 - ERROR - \u274c Error al parsear XML para boletín 16458: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:57 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16458.xml' para análisis.
+2025-02-02 23:33:57 - INFO - \U0001f50d Consultando API con boletín 16457-07 (ID enviado: 16457)
+2025-02-02 23:33:58 - INFO - \U0001f50e XML recibido para boletín 16457:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16457-07</boletin>
+                    <titulo>Modifica la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, en materia de imputabilidad penal de los adolescentes, en los casos que indica</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</ca...
+2025-02-02 23:33:58 - ERROR - \u274c Error al parsear XML para boletín 16457: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:58 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16457.xml' para análisis.
+2025-02-02 23:33:58 - INFO - \U0001f50d Consultando API con boletín 16456-35 (ID enviado: 16456)
+2025-02-02 23:33:59 - INFO - \U0001f50e XML recibido para boletín 16456:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16456-35</boletin>
+                    <titulo>Modifica la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad, con el objeto de aumentar las sanciones aplicables a quienes atenten contra el ejercicio de los derechos que se consagran en favor de las personas con discapacidad</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+       ...
+2025-02-02 23:33:59 - ERROR - \u274c Error al parsear XML para boletín 16456: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:33:59 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16456.xml' para análisis.
+2025-02-02 23:33:59 - INFO - \U0001f50d Consultando API con boletín 16455-36 (ID enviado: 16455)
+2025-02-02 23:34:00 - INFO - \U0001f50e XML recibido para boletín 16455:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16455-36</boletin>
+                    <titulo>Modifica la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia, en materia de apoyo a la autonomía progresiva de adolescentes vulnerados que estén al cuidado del Estado y de los infractores de ley</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+      ...
+2025-02-02 23:34:00 - ERROR - \u274c Error al parsear XML para boletín 16455: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:00 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16455.xml' para análisis.
+2025-02-02 23:34:00 - INFO - \U0001f50d Consultando API con boletín 16454-10 (ID enviado: 16454)
+2025-02-02 23:34:01 - INFO - \U0001f50e XML recibido para boletín 16454:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16454-10</boletin>
+                    <titulo>Aprueba el Acuerdo, en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar, relativo a la Conservación y el Uso Sostenible de la Diversidad Biológica Marina de las Zonas situadas fuera de la Jurisdicción Nacional, adoptado en Nueva York, el 19 de junio de 2023</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                 ...
+2025-02-02 23:34:01 - ERROR - \u274c Error al parsear XML para boletín 16454: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:01 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16454.xml' para análisis.
+2025-02-02 23:34:01 - INFO - \U0001f50d Consultando API con boletín 16449-12 (ID enviado: 16449)
+2025-02-02 23:34:02 - INFO - \U0001f50e XML recibido para boletín 16449:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16449-12</boletin>
+                    <titulo>Modifica la ley N° 20.600, que crea los tribunales ambientales, en materia de sanciones aplicables al responsable por el daño ambiental</titulo>
+                    <fecha_ingreso>29/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>Senado</camara_origen>
+                    <urgencia_actual>Sin urgencia</urg...
+2025-02-02 23:34:02 - ERROR - \u274c Error al parsear XML para boletín 16449: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:02 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16449.xml' para análisis.
+2025-02-02 23:34:02 - INFO - \U0001f50d Consultando API con boletín 16453-02 (ID enviado: 16453)
+2025-02-02 23:34:03 - INFO - \U0001f50e XML recibido para boletín 16453:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16453-02</boletin>
+                    <titulo>Modifica la ley N° 17.798, sobre control de armas, para autorizar el uso de armas de fuego por personas distintas a su titular, en casos de legítima defensa</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgenci...
+2025-02-02 23:34:03 - ERROR - \u274c Error al parsear XML para boletín 16453: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:03 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16453.xml' para análisis.
+2025-02-02 23:34:03 - INFO - \U0001f50d Consultando API con boletín 16452-07 (ID enviado: 16452)
+2025-02-02 23:34:05 - INFO - \U0001f50e XML recibido para boletín 16452:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16452-07</boletin>
+                    <titulo>Modifica la Carta Fundamental con el objeto de suprimir el límite del plazo de detención para materializar expulsiones administrativas</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia<...
+2025-02-02 23:34:05 - ERROR - \u274c Error al parsear XML para boletín 16452: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:05 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16452.xml' para análisis.
+2025-02-02 23:34:05 - INFO - \U0001f50d Consultando API con boletín 16448-10 (ID enviado: 16448)
+2025-02-02 23:34:06 - INFO - \U0001f50e XML recibido para boletín 16448:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16448-10</boletin>
+                    <titulo>Aprueba el Acuerdo sobre Transporte Aéreo entre el Gobierno de la República de Colombia y el Gobierno de la República de Chile, firmado en Cartagena de Indias, Colombia, el 27 de enero de 2022</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara...
+2025-02-02 23:34:06 - ERROR - \u274c Error al parsear XML para boletín 16448: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:06 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16448.xml' para análisis.
+2025-02-02 23:34:06 - INFO - \U0001f50d Consultando API con boletín 16447-10 (ID enviado: 16447)
+2025-02-02 23:34:07 - INFO - \U0001f50e XML recibido para boletín 16447:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16447-10</boletin>
+                    <titulo>Aprueba el Acuerdo sobre Transporte Aéreo entre el Gobierno de la República del Ecuador y el Gobierno de la República de Chile, firmado en Cartagena de Indias, Colombia, el 27 de enero de 2022</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara...
+2025-02-02 23:34:07 - ERROR - \u274c Error al parsear XML para boletín 16447: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:07 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16447.xml' para análisis.
+2025-02-02 23:34:07 - INFO - \U0001f50d Consultando API con boletín 16446-10 (ID enviado: 16446)
+2025-02-02 23:34:08 - INFO - \U0001f50e XML recibido para boletín 16446:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16446-10</boletin>
+                    <titulo>Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de Islandia y el Gobierno de la República de Chile, suscrito en Oslo, Noruega, el 24 de marzo de 2022</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <u...
+2025-02-02 23:34:08 - ERROR - \u274c Error al parsear XML para boletín 16446: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:08 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16446.xml' para análisis.
+2025-02-02 23:34:08 - INFO - \U0001f50d Consultando API con boletín 16445-10 (ID enviado: 16445)
+2025-02-02 23:34:09 - INFO - \U0001f50e XML recibido para boletín 16445:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16445-10</boletin>
+                    <titulo>Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno del Estado Federal de Austria, suscrito en Santiago, Chile, el 7 de abril de 2022</titulo>
+                    <fecha_ingreso>28/11/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+   ...
+2025-02-02 23:34:09 - ERROR - \u274c Error al parsear XML para boletín 16445: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:09 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16445.xml' para análisis.
+2025-02-02 23:34:09 - INFO - \U0001f50d Consultando API con boletín 16451-07 (ID enviado: 16451)
+2025-02-02 23:34:10 - INFO - \U0001f50e XML recibido para boletín 16451:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16451-07</boletin>
+                    <titulo>Modifica el Código Penal para incorporar la circunstancia agravante de condición migratoria desconocida o irregular</titulo>
+                    <fecha_ingreso>27/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+ ...
+2025-02-02 23:34:10 - ERROR - \u274c Error al parsear XML para boletín 16451: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:10 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16451.xml' para análisis.
+2025-02-02 23:34:10 - INFO - \U0001f50d Consultando API con boletín 16450-07 (ID enviado: 16450)
+2025-02-02 23:34:11 - INFO - \U0001f50e XML recibido para boletín 16450:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16450-07</boletin>
+                    <titulo>Modifica la ley Nº 20.000 para incorporar una agravante de responsabilidad penal aplicable a los delitos previstos en ella que involucren drogas sustraídas desde un establecimiento de salud</titulo>
+                    <fecha_ingreso>27/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_ori...
+2025-02-02 23:34:11 - ERROR - \u274c Error al parsear XML para boletín 16450: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:11 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16450.xml' para análisis.
+2025-02-02 23:34:11 - INFO - \U0001f50d Consultando API con boletín 16441-19 (ID enviado: 16441)
+2025-02-02 23:34:13 - INFO - \U0001f50e XML recibido para boletín 16441:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16441-19</boletin>
+                    <titulo>Crea una nueva institucionalidad de prospectiva y desarrollo sostenible basada en conocimiento, y modifica la ley N° 21.105, que crea el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, en los términos que indica</titulo>
+                    <fecha_ingreso>27/11/2023</fecha_ingreso>
+                    <iniciativa>Mensaje</iniciativa>
+                    <...
+2025-02-02 23:34:13 - ERROR - \u274c Error al parsear XML para boletín 16441: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:13 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16441.xml' para análisis.
+2025-02-02 23:34:13 - INFO - \U0001f50d Consultando API con boletín 16778-08 (ID enviado: 16778)
+2025-02-02 23:34:14 - INFO - \U0001f50e XML recibido para boletín 16778:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16778-08</boletin>
+                    <titulo>Deroga la no concesibilidad del litio y establece una tasa única para su adquisición dentro de la concesión de explotación de que se trate</titulo>
+                    <fecha_ingreso>23/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgen...
+2025-02-02 23:34:14 - ERROR - \u274c Error al parsear XML para boletín 16778: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:14 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16778.xml' para análisis.
+2025-02-02 23:34:14 - INFO - \U0001f50d Consultando API con boletín 16444-07 (ID enviado: 16444)
+2025-02-02 23:34:15 - INFO - \U0001f50e XML recibido para boletín 16444:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16444-07</boletin>
+                    <titulo>Modifica diversos cuerpos legales para prevenir, fiscalizar y sancionar la operación de vertederos ilegales y rellenos sanitarios clandestinos</titulo>
+                    <fecha_ingreso>23/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin u...
+2025-02-02 23:34:15 - ERROR - \u274c Error al parsear XML para boletín 16444: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:15 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16444.xml' para análisis.
+2025-02-02 23:34:15 - INFO - \U0001f50d Consultando API con boletín 16443-07 (ID enviado: 16443)
+2025-02-02 23:34:16 - INFO - \U0001f50e XML recibido para boletín 16443:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16443-07</boletin>
+                    <titulo>Crea el Registro Nacional de Personas Fallecidas por Actos de Terrorismo y establece el deber de informar dicha circunstancia en el certificado de defunción</titulo>
+                    <fecha_ingreso>23/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgenci...
+2025-02-02 23:34:16 - ERROR - \u274c Error al parsear XML para boletín 16443: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:16 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16443.xml' para análisis.
+2025-02-02 23:34:16 - INFO - \U0001f50d Consultando API con boletín 16442-24 (ID enviado: 16442)
+2025-02-02 23:34:17 - INFO - \U0001f50e XML recibido para boletín 16442:
+<proyectos><proyecto>
+                 <descripcion>
+                    <boletin>16442-24</boletin>
+                    <titulo>Declara el 5 de noviembre de cada año como el Día Nacional del Relator de Fútbol Chileno</titulo>
+                    <fecha_ingreso>23/11/2023</fecha_ingreso>
+                    <iniciativa>Moción</iniciativa>
+                    <camara_origen>C.Diputados</camara_origen>
+                    <urgencia_actual>Sin urgencia</urgencia_actual>
+                    <etapa>P...
+2025-02-02 23:34:17 - ERROR - \u274c Error al parsear XML para boletín 16442: not well-formed (invalid token): line 15, column 99
+2025-02-02 23:34:17 - WARNING - \u26a0\ufe0f XML problemático guardado en 'debug_boletin_16442.xml' para análisis.
+2025-02-02 23:34:17 - INFO - \U0001f50d Consultando API con boletín 16439-05 (ID enviado: 16439)
